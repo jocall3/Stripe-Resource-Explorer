@@ -1,0 +1,5 @@
+{
+  "name": "Stripe Resource Explorer",
+  "description": "A developer-focused interactive tool to explore mock Stripe API resources, featuring a clean modern UI, searchable resource list, and syntax-highlighted JSON inspection.",
+  "requestFramePermissions": []
+}
